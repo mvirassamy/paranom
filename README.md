@@ -61,11 +61,14 @@ paranom/
 ### Marketplace Interface
 <img src="screenshots/marketplace.png" alt="Marketplace" width="600">
 
-### Admin NFT Creation Interface
-<img src="screenshots/admin.png" alt="Admin" width="600">
+### Collection 
+<img src="screenshots/collection.png" alt="Collection" width="600">
 
 ### Messaging System
 <img src="screenshots/messaging.png" alt="Messaging" width="600">
+
+### Admin NFT Creation Interface
+<img src="screenshots/admin.png" alt="Admin" width="600">
 
 ### Transactions
 <p align="center">
