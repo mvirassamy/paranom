@@ -23,14 +23,14 @@ This project was my first experience with modern Web3 technologies:
 - **OpenZeppelin**: Security-audited contract libraries
 - **Ganache**: Local blockchain for development and testing
 - **Web3.js**: Blockchain interaction
-- **React.js**: Frontend development
+- **IPFS**: Decentralized storage for NFT metadata
 
 ## 📁 Project Structure
 
 ```
 paranom/
 ├── client-web3/               # Smart contracts & blockchain logic
-├── frontend/                  # React.js frontend application
+├── client/                  # React.js frontend application
 └── README.md                  # Project documentation
 ```
 
