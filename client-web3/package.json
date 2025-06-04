@@ -1,0 +1,23 @@
+{
+  "name": "paranom-smart-contracts",
+  "version": "1.0.0",
+  "description": "Smart contracts for Paranom NFT Marketplace",
+  "scripts": {
+    "test": "truffle test",
+    "compile": "truffle compile",
+    "migrate": "truffle migrate",
+    "console": "truffle console"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.5.0"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.16",
+    "chai": "^4.3.6",
+    "truffle": "^5.7.0",
+    "ganache-cli": "^6.12.2"
+  },
+  "keywords": ["nft", "marketplace", "blockchain", "ethereum", "smart-contracts"],
+  "author": "Paranom Team",
+  "license": "MIT"
+}

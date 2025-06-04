@@ -1,0 +1,29 @@
+{
+  "baseUri": "https://nftstorage.link/ipfs",
+  "hash": "bafybeicr32xbvdftahe4fxst6hlayc6zhcequbyi74jnrj77tz2nqrnn6i",
+  "extension" : "json",
+  "items": [
+    "amber",
+    "ambre",
+    "binary_harmony_m",
+    "binary_harmony_w",
+    "freddy_mercury_m",
+    "freddy_mercury_w",
+    "kill_bill_m",
+    "kill_bill_w",
+    "lelouch_m",
+    "lelouch_w",
+    "luminous_harmony_m",
+    "luminous_harmony_w",
+    "piccolo_m",
+    "piccolo_w",
+    "sky_shades_m",
+    "sky_shades_w",
+    "spiderman",
+    "spiderman_x",
+    "spiderwoman",
+    "spiderwoman_x",
+    "steve_mcqueen_m",
+    "steve_mcqueen_w"
+  ]
+}
