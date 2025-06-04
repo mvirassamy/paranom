@@ -12,6 +12,7 @@ Paranom represents my journey into blockchain development and demonstrates my fi
 - **💬 Exclusive Messaging**: NFT owners get access to private decentralized channels
 - **👤 Profile Management**: Customize your profile with your owned NFTs
 - **⚡ Smart Contract Automation**: Fully decentralized transaction management
+- **🎨 Admin Minting Interface**: Dedicated interface for NFT creation and minting
 - **🔒 Local Development**: Built and tested on Ganache local blockchain
 
 ## 🚀 Technologies Used
@@ -51,3 +52,23 @@ paranom/
 - **NFT Profiles**: Set any owned NFT as your profile picture
 - **Collection Display**: View all owned NFTs in one place
 - **Automatic Setup**: First NFT purchase automatically sets profile
+
+## 📸 Screenshots
+
+### Home Page
+<img src="screenshots/home_page.png" alt="Home" width="600">
+
+### Marketplace Interface
+<img src="screenshots/marketplace.png" alt="Marketplace" width="600">
+
+### Admin NFT Creation Interface
+<img src="screenshots/admin.png" alt="Admin" width="600">
+
+### Messaging System
+<img src="screenshots/messaging.png" alt="Messaging" width="600">
+
+### Transactions
+<p align="center">
+  <img src="screenshots/mint.png" alt="NFT Minting" width="45%" style="margin-right: 10px;">
+  <img src="screenshots/purchase.png" alt="NFT Purchase" width="45%">
+</p>
